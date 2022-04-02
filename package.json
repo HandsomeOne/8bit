@@ -8,6 +8,11 @@
     "high contrast",
     "8-bit"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HandsomeOne/8bit"
+  },
+  "license": "MIT",
   "publisher": "handsomeone",
   "engines": {
     "vscode": "^1.12.0"
